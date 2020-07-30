@@ -50,3 +50,8 @@ class DataManager:
                 new_row = []
 
         return np.array(output_list)
+
+
+
+
+# Prova Prova
